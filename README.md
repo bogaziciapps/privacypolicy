@@ -44,7 +44,7 @@
     <div style='clear:both;height:10px;'></div>
     <div class='ppConsistencies'>
         <div class='col-2'>
-            <div class="col-12 quick-links2 gen-text-center">Google AdSense</div>
+            <div class="col-12 quick-links2 gen-text-center">Google AdSense / Admob</div>
         </div>
         <div class='col-2'>
             <div class="col-12 quick-links2 gen-text-center coppa-pad">                    COPPA                </div>
@@ -84,5 +84,8 @@
 <span id='coppAct'></span><br>
 <div class='blueText'><strong>COPPA (Children Online Privacy Protection Act)</strong></div><br />
 <div class='innerText'>When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control.  The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.<br><br></div>
-<div class='innerText'>We do not specifically market to children under the age of 13 years old.</div>
+<div class='innerText'>We do not specifically market to children under the age of 13 years old.</div><br />
+
+<div class='blueText'><strong>Our Contact Information</strong></div><br />
+<div class='innerText'>bogaziciapps@gmail.com</div>
 </div>
