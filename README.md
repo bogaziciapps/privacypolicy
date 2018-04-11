@@ -1,25 +1,3 @@
-<style>
-#ppBody
-{
-    font-size:11pt;
-    width:100%;
-    margin:0 auto;
-    text-align:justify;
-}
-
-#ppHeader
-{
-    font-family:verdana;
-    font-size:21pt;
-    width:100%;
-    margin:0 auto;
-}
-
-.ppConsistencies
-{
-    display:none;
-}
-</style>
 
 <div id='ppHeader'> Privacy Policy</div>
 <div id='ppBody'>
