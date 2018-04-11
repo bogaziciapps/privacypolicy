@@ -1,5 +1,5 @@
 
-<div id='ppHeader'> Privacy Policy</div>
+<div id='ppHeader'><strong>Privacy Policy</strong></div>
 <div id='ppBody'>
     <div class='ppConsistencies'>
         <div class='col-2'>
