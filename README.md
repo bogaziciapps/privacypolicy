@@ -54,6 +54,11 @@
 <div class='innerText'>Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</div>
 <span id='gooAd'></span><br>
 <div class='blueText'><strong>Google</strong></div><br />
+<div class='innerText'>We use several Google Services in our products.</div><br />
+<div class='innerText'>For Google Privacy Policy, check this link: https://policies.google.com/privacy?hl=en</div><br />
+<div class='innerText'>For information about HOW GOOGLE USES INFORMATION FROM SITES OR APPS THAT USE GOOGLE SERVICES check this link: https://policies.google.com/technologies/partner-sites</div><br />
+<div class='innerText'>For information about Google Ads Controller-Controller Data Protection Terms, check this link: https://privacy.google.com/businesses/controllerterms/</div><br />
+<div class='innerText'>For Privacy and Security in Google Firebase Services, check this link: https://firebase.google.com/support/privacy/</div><br />
 <div class='innerText'>Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en <br><br></div>
 <div class='innerText'>We use Google AdSense/AdMob Advertising on our products.</div>
 <div class='innerText'><br>Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.<br></div>
