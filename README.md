@@ -22,7 +22,7 @@
     <div style='clear:both;height:10px;'></div>
     <div class='ppConsistencies'>
         <div class='col-2'>
-            <div class="col-12 quick-links2 gen-text-center">Google AdSense / Admob</div>
+            <div class="col-12 quick-links2 gen-text-center">Google</div>
         </div>
         <div class='col-2'>
             <div class="quick-links2 gen-text-center">Opting Out</div>
