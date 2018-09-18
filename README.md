@@ -25,10 +25,10 @@
             <div class="col-12 quick-links2 gen-text-center">Google AdSense / Admob</div>
         </div>
         <div class='col-2'>
-            <div class="col-12 quick-links2 gen-text-center coppa-pad">                    COPPA                </div>
+            <div class="quick-links2 gen-text-center">Opting Out</div>
         </div>
         <div class='col-2'>
-            <div class="quick-links2 gen-text-center">CAN-SPAM</div>
+            <div class="col-12 quick-links2 gen-text-center coppa-pad">                    COPPA                </div>
         </div>
         <div class='col-2'>
             <div class="quick-links2 gen-text-center">Our Contact Information<br></div>
