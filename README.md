@@ -39,13 +39,16 @@
     <div class='innerText'>This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.<br></div>
     <span id='infoCo'></span><br>
     <div class='grayText'><strong>What personal information do we collect from the people that visit our blog, website or app?</strong></div><br />
-    <div class='innerText'>We do not collect information from visitors of our site or app.</div>
+    <div class='innerText'>We do not directly collect personel information from visitors of our site or app. On the other hand, we use several Google Services with our products, and these services may collect several information from end users. For details see below.</div>
 </div><br>
 <div class='grayText'><strong>When do we collect information?</strong></div><br />
-<div class='innerText'>We collect information from you when you enter information on our site/app.</div><br>
+<div class='innerText'>We can collect information from you when you enter information on our site/app, send e-mails, messages and comments, interact with us on social media platforms and third party platforms.</div><br>
 <span id='infoUs'></span><br>
 <div class='grayText'><strong>How do we use your information? </strong></div><br />
-<div class='innerText'> We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:<br><br></div>
+<div class='innerText'> We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site/app features in the following ways:<br>
+* to track app performance, health and problems<br />
+* to track analytics data about products and users' use of products<br />
+* for bussiness planning<br /></div>
 <span id='trDi'></span><br>
 <div class='grayText'><strong>Third-party disclosure</strong></div><br />
 <div class='innerText'>We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. <br><br> However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. </div>
